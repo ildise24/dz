@@ -1,0 +1,60 @@
+body {
+    background-color: burlywood;
+}
+.first {
+    border: 1px solid darkblue;
+    background-color: darkkhaki;
+    width: 1200px;
+    height: 500px;
+}
+.blue {
+    border: 1px solid blue;
+    background-color: cornflowerblue;
+    width: 1150px;
+    height: 200px;
+    margin: 20px;
+}
+.blocks {
+    border: 1px solid darkcyan;
+    background-color: darkblue;
+    width: 200px;
+    height: 150px;
+    float: left;
+    margin: 20px;
+}
+.second {
+    border: 1px solid red;
+    background-color: salmon;
+    width: 1200px;
+    height: 350px;
+    margin-top: 20px;
+}
+.block {
+    border: 1px solid darkblue;
+    background-color: blue;
+    width: 550px;
+    height: 300px;
+    float: left;
+    margin: 20px;
+}
+.border {
+    border: 1px solid crimson;
+    background-color: blue;
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+    float: left;
+}
+.green {
+    background-color: greenyellow;
+    width: 200px;
+    height: 100px;
+    margin: 20px;
+}
+.black {
+    background-color: indigo;
+    width: 90px;
+    height: 40px;
+    float: left;
+    margin: 5px;
+}
